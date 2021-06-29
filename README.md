@@ -1,5 +1,7 @@
 <h1 align="center"> Hi there 👋 I´m Maurizio </h1>
 
+<h2 align="center"> Web developer and content creator from Bielefeld </h2>
+
 <img width="100%" align="center" alt="banner" src="https://user-images.githubusercontent.com/68517390/123864366-fb208b80-d92a-11eb-8196-183c3b89711b.png" />
 
 <h1 align="center"> Tech Stack </h1>
@@ -18,8 +20,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
+<br />
+
 <img width="25%" align="right" alt="octocat" src="https://user-images.githubusercontent.com/68517390/123865015-b1847080-d92b-11eb-87d6-91da18d8650c.png" />
 
+<br />
 <br />
 
 - 🔭 I’m currently working on [Movie Night](https://github.com/Maurizio-F/movie-night).
@@ -27,7 +32,6 @@
 - 💬 Ask me about music, football and games.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/maurizio-f-9282481aa/)
 
-<br />
 <br />
 <br />
 

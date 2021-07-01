@@ -21,9 +21,8 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 
-
-
-<img width="25%" align="right" alt="octocat" src="https://user-images.githubusercontent.com/68517390/124128176-d2101000-da7c-11eb-9ca8-c8ac132d2d48.png" />
+<img width="25%" align="right" 
+alt="octocat" src="https://user-images.githubusercontent.com/68517390/124129205-da1c7f80-da7d-11eb-95b1-a279bd1faa22.png" />
 
 <br />
 <br />

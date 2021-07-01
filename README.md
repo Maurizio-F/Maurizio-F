@@ -20,9 +20,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-<br />
 
-<img width="25%" align="right" alt="octocat" src="https://user-images.githubusercontent.com/68517390/123865015-b1847080-d92b-11eb-87d6-91da18d8650c.png" />
+
+
+<img width="25%" align="right" alt="octocat" src="https://user-images.githubusercontent.com/68517390/124128176-d2101000-da7c-11eb-9ca8-c8ac132d2d48.png" />
 
 <br />
 <br />

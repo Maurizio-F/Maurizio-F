@@ -7,6 +7,7 @@
 <h1 align="center"> Tech Stack </h1>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Angular](https://img.shields.io/badge/Angular-06062C?style=flat-square&logo=angular)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)

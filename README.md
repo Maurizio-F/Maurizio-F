@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 I´m Maurizio </h1>
 
-<h2 align="center"> Web developer and content creator from Germany </h2>
+<h2 align="center"> Web developer, UX/UI Designer and content creator from Germany </h2>
 
 <img width="100%" align="center" alt="banner" src="https://user-images.githubusercontent.com/68517390/123864366-fb208b80-d92a-11eb-8196-183c3b89711b.png" />
 

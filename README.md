@@ -32,7 +32,7 @@ alt="octocat" src="https://user-images.githubusercontent.com/68517390/124129205-
 <br />
 <br />
 
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python, GameMaker.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/maurizio-f-9282481aa/)
 
 <br />
@@ -40,7 +40,6 @@ alt="octocat" src="https://user-images.githubusercontent.com/68517390/124129205-
 
 
 <h1 align="center">Stats</h1>
-<img width="40%" align="left" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Maurizio-F" />
 <img width="40%" align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Maurizio-F&show_icons=true&theme=flag-india" />
 
 
